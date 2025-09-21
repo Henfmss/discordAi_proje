@@ -1,0 +1,2 @@
+0 Kapalı Modem
+1 Açık Modem
